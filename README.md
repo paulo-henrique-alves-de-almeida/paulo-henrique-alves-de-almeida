@@ -6,6 +6,8 @@
 
 ##
 
+📢 **ESSA É UMA CONTA RECRIADA DE [paulo-henrique-almeida](https://github.com/paulo-henrique-almeida)** ❗
+
 - 👀 Procuro trabalhar na área da programação
 - 🌱 Constantemente aprendendo
 - ⚡ Fun fact: Me apaixonei por programação em meados de 2018, graças ao mestre @gustavoguanabara
