@@ -1,4 +1,4 @@
-# 👋 Olá, me chamo Paulo Henrique!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Monocraft&size=35&duration=2000&pause=1000&color=FFFFFF&background=0D111700&width=1000&height=70&lines=Olá,+mundo!;Eu+me+chamo+Paulo+Henrique!)](https://git.io/typing-svg)
 
 [![paulo-henrique-almeida's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulo-henrique-alves-de-almeida&show_icons=true&hide=contribs&hide_rank=true&count_private=true&theme=github_dark&locale=pt-br)](https://github.com/paulo-henrique-almeida/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-henrique-alves-de-almeida&layout=compact&theme=github_dark&locale=pt-br&hide=html)](https://github.com/paulo-henrique-almeida/github-readme-stats)
@@ -23,3 +23,5 @@
   <img src="https://github.com/paulo-henrique-almeida/paulo-henrique-almeida/assets/158237204/16d9fdea-1abf-4c59-9702-7c99eb5ef1c4" alt="php" width="50">
   <img src="https://github.com/paulo-henrique-almeida/paulo-henrique-almeida/assets/158237204/3b4ac4d0-3782-4260-bfe4-0349a0dadffc" alt="csharp" width="50">
 </div>
+
+##
