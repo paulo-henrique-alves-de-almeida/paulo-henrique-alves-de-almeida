@@ -25,3 +25,5 @@
 </div>
 
 ##
+
+![snake gif](https://github.com/paulo-henrique-alves-de-almeida/paulo-henrique-alves-de-almeida/blob/output/github-snake-dark.svg)
